@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.deno.dev?size=30&color=00B3B3&center=true&vCenter=true&width=800&height=100&lines=%3E+Hello+World+I'm+Zac.;%3E+I+build+full-stack+and+AI-powered+systems.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00B3B3&center=true&vCenter=true&width=800&height=100&lines=%3E+Hello+World+I'm+Zac.;%3E+I+build+full-stack+and+AI-powered+systems.)
 
 # 👋 Hi! I'm Zac Chen
 
