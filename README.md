@@ -10,9 +10,8 @@
 
 ## 🔭 What I'm Working On
 
-- 🧠 **Personal Knowledge Assistant / RAG System** — An end-to-end retrieval system for personal knowledge management, supporting ingestion from URLs, screenshots, and notes, with hybrid search, OCR, embeddings, and citation-grounded answers.
-- 🌐 **Portfolio Website** — A modern interactive portfolio built with **React** and immersive visual effects, focused on smooth UX, motion, and clean presentation.
-- 📝 **ZacBlog** — A self-hosted blog platform built with **Spring Boot**, **Vue**, and **MySQL**, with Markdown editing, structured content management, logging, and deployment tooling.
+- 🏝️ **Vibe Island** — A macOS Dynamic Island-inspired notch utility for agent workflows, live activities, and productivity, built with **SwiftUI**.
+- 🃏 **Slay the Spire 2 MCP** — An MCP server integration for Slay the Spire 2.
 
 ---
 
@@ -25,22 +24,6 @@
 - Contribute to test infrastructure and quality engineering workflows for internal software systems.
 - Work with tools and services across automation, backend integration, and test management.
 - Support scalable testing processes that improve reliability and development efficiency.
-
-### **Definity Insurance** · _Test Automation Developer Co-op_
-
-📍 Waterloo, ON | 🗓️ May 2025 – Aug 2025
-
-- Built and maintained automated tests for a mobile insurance application using **Java**, **Appium**, and **BrowserStack**.
-- Expanded test coverage and improved execution workflows with tools such as **Maestro** and **LambdaTest**.
-- Reduced manual regression effort by improving automation structure, reliability, and pipeline efficiency.
-
-### **WDI Wise Device Inc.** · _Software Verification Co-op_
-
-📍 Richmond Hill, ON | 🗓️ Sep 2024 – Dec 2024
-
-- Developed and executed automated verification workflows for sensor-related software and hardware systems.
-- Worked with **C/C++**, **MFC**, **Jira**, **Jenkins**, and **SVN** in an embedded testing environment.
-- Helped improve validation efficiency and testing consistency for device performance checks.
 
 ---
 
