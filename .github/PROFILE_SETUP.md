@@ -16,9 +16,9 @@ Requires **Settings → Actions → General → Workflow permissions → Read an
 ## 2. Coding Habits block — needs two secrets
 
 `.github/workflows/waka-readme-stats.yml` fills in everything between the
-`<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers (commit-hour
-breakdown, day-of-week breakdown, language-per-repo, lines-of-code chart, and
-WakaTime coding time).
+`<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers. Currently
+enabled: the "My GitHub Data" summary, the commit-hour breakdown
+("I'm a Night 🦉"), the day-of-week breakdown, and the lines-of-code badge.
 
 1. **`GH_TOKEN`** — a classic PAT with `repo` and `read:user` scopes.
 2. **`WAKATIME_API_KEY`** — from https://wakatime.com/settings/api-key
@@ -27,15 +27,17 @@ WakaTime coding time).
 Both secrets are **mandatory**. `WAKATIME_API_KEY` is declared `required: true`
 in the action's `action.yml`, and `sources/manager_environment.py` raises
 `KeyError: 'Missing required secret: INPUT_WAKATIME_API_KEY'` at import time —
-so the run fails even if every `SHOW_*` WakaTime block is set to `"False"`.
-
-The WakaTime blocks render as "No Activity Tracked This Week" until the editor
-plugin is installed and has reported time. The GitHub-derived blocks work
-immediately.
+so the run fails even though every `SHOW_*` WakaTime block is `"False"` here.
+Don't delete that secret.
 
 > There is an undocumented escape hatch: setting the `MOCK_WAKATIME=True`
 > environment variable skips the key check and loads fixture data instead. It's
 > intended for the action's own tests, so don't rely on it in production.
+
+To re-enable the WakaTime blocks ("This Week I Spent My Time On"), install a
+[WakaTime editor plugin](https://wakatime.com/plugins) and flip
+`SHOW_TOTAL_CODE_TIME`, `SHOW_TIMEZONE`, `SHOW_LANGUAGE`, `SHOW_EDITORS`,
+`SHOW_PROJECTS`, and `SHOW_OS` back to `"True"`.
 
 ## Notes
 
