@@ -1,17 +1,47 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00B3B3&center=true&vCenter=true&width=800&height=100&lines=%3E+Hello+World+I'm+Zac.;%3E+I+build+full-stack+and+AI-powered+systems.)
+<div align="center">
 
-# 👋 Hi! I'm Zac Chen
+<a href="https://zaaac.vip/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00B3B3&center=true&vCenter=true&width=820&height=90&lines=%3E+Hello+World%2C+I'm+Zac.;%3E+I+build+full-stack+and+AI-powered+systems.;%3E+Currently+breaking+things+on+purpose+%40+PlayStation." alt="Typing SVG" />
+</a>
 
-🎓 **Computer Engineering Student @ University of Waterloo**  
-💡 Interested in **full-stack development**, **AI systems**, **developer tools**, and **automation**  
-🛠️ I enjoy building practical software that improves workflows, testing, and knowledge access
+<h1>Zac Chen</h1>
+
+<p>
+  <b>Computer Engineering @ University of Waterloo</b><br/>
+  Software Developer in Test Co-op <b>@ Sony PlayStation</b>
+</p>
+
+<p><i>Build the tool you wish existed, then use it every day.</i></p>
+
+<p>
+  <a href="mailto:zac.chen@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/zaaac/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://zaaac.vip/"><img src="https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Zaaacqwq&style=for-the-badge&color=00B3B3&label=VISITORS" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, currently on co-op as a
+**Software Developer in Test at Sony PlayStation**.
+
+- 💡 I care about **full-stack development**, **AI systems**, **developer tools**, and **automation**
+- 🛠️ I build practical software that improves **workflows, testing, and knowledge access**
+- 🧪 Day job: test infrastructure and quality engineering — automation, backend integration, test management
+- 📖 Off hours: shipping small tools that remove friction from my own workflow
 
 ---
 
 ## 🔭 What I'm Working On
 
-- 🏝️ **Vibe Island** — A macOS Dynamic Island-inspired notch utility for agent workflows, live activities, and productivity, built with **SwiftUI**.
-- 🃏 **Slay the Spire 2 MCP** — An MCP server integration for Slay the Spire 2.
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| 🏝️ **Vibe Island** | A macOS Dynamic Island-inspired notch utility for agent workflows, live activities, and productivity | `SwiftUI` |
+| 🃏 **Slay the Spire 2 MCP** | An MCP server integration for Slay the Spire 2 | `TypeScript` `MCP` |
 
 ---
 
@@ -19,7 +49,7 @@
 
 ### **Sony PlayStation** · _Software Developer in Test Co-op_
 
-📍 Waterloo, ON | 🗓️ Jan 2026 – Present
+📍 Waterloo, ON &nbsp;|&nbsp; 🗓️ Jan 2026 – Present
 
 - Contribute to test infrastructure and quality engineering workflows for internal software systems.
 - Work with tools and services across automation, backend integration, and test management.
@@ -27,53 +57,102 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Skill Set
 
-### **Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**
 
-### **Frameworks / Tools**
+<p>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="48" /></a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="48" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="48" /></a>
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="48" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="48" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="48" /></a>
+  <a href="https://www.swift.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="48" /></a>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE6C4D?style=for-the-badge&logo=appium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+**Frameworks &amp; Tools**
 
----
+<p>
+  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="48" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="48" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="48" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="48" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="48" /></a>
+  <a href="https://appium.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/appium/EE6C4D" alt="Appium" height="44" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="48" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="48" /></a>
+  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="48" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="48" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="48" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="48" /></a>
+</p>
 
-## 🌱 Education
-
-**University of Waterloo**  
-🎓 Bachelor of Applied Science in Computer Engineering (2023–2028)
-
----
-
-## 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zac.chen@uwaterloo.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaaac/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaaacqwq)
-[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zaaac.vip/)
+</div>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex)](https://github.com/Zaaacqwq)
+## 📊 Stats &amp; Contributions
 
-![](https://komarev.com/ghpvc/?username=Zaaacqwq&style=for-the-badge)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zaaacqwq/Zaaacqwq/main/profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="3D contribution profile" />
+  <img src="https://raw.githubusercontent.com/Zaaacqwq/Zaaacqwq/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution profile" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zaaacqwq&theme=transparent&hide_border=true&stroke=30363d&ring=00B3B3&fire=f0883e&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=f0f6fc&dates=8b949e&sideNums=f0f6fc">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Zaaacqwq&theme=transparent&hide_border=true&ring=00B3B3&fire=f0883e">
+    <img src="https://streak-stats.demolab.com/?user=Zaaacqwq&theme=transparent&hide_border=true&ring=00B3B3&fire=f0883e" alt="GitHub Streak" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3&icon_color=00B3B3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F" alt="GitHub Stats" width="48%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=0d1117&color=e6edf3&line=00B3B3&point=f78166&area=true&area_color=00B3B333&title_color=e6edf3&hide_border=true&custom_title=Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="97%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zaaacqwq?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f" alt="Top Languages" width="45%" />
+    </picture>
+  </a>
+</p>
+
+---
+
+## ⏰ Coding Habits
+
+<!--START_SECTION:waka-->
+_This section is generated automatically — it will fill in after the first workflow run._
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+<a href="mailto:zac.chen@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/zaaac/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Zaaacqwq"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://zaaac.vip/"><img src="https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" /></a>
+
+<sub>Always happy to talk about developer tooling, testing infrastructure, and AI systems.</sub>
+
+</div>

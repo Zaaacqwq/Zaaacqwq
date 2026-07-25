@@ -1,0 +1,40 @@
+name: Coding Habits
+
+on:
+  schedule:
+    # 04:00 UTC daily
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update the "Coding Habits" section
+        uses: anmol098/waka-readme-stats@v5
+        with:
+          # A classic PAT with `repo` + `read:user` scope. GITHUB_TOKEN is not
+          # sufficient: the action reads data across all of your repositories.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Optional. Only needed to enable the WakaTime-powered blocks below.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # --- GitHub-derived blocks (no WakaTime needed) ---
+          SHOW_SHORT_INFO: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_PROFILE_VIEWS: "False"
+
+          # --- WakaTime-derived blocks: flip to True once WAKATIME_API_KEY is set ---
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "chore: update coding habits"
