@@ -38,7 +38,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| 🏝️ **Vibe Island** | A macOS Dynamic Island-inspired notch utility for agent workflows, live activities, and productivity | `SwiftUI` |
+| 🏝️ **[VibeIsland](https://github.com/Zaaacqwq/vibeIsland)** | A command center for the MacBook notch — track AI coding agent sessions, answer their questions and approve permission requests inline, and keep media, usage, and system HUDs one glance away | `SwiftUI` `macOS` |
 | 🃏 **[SlayTheSpireRL](https://github.com/Zaaacqwq/SlayTheSpireRL)** | An agent stack for Slay the Spire 2 — a game mod exposing live state and actions, an MCP server that lets an LLM play, and an RL training environment | `Python` `C#` `MCP` |
 
 ---
