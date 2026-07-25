@@ -13,23 +13,29 @@ images exist — until then those two `<img>` tags in the Stats section are brok
 
 Requires **Settings → Actions → General → Workflow permissions → Read and write**.
 
-## 2. Coding Habits block — needs a PAT
+## 2. Coding Habits block — needs two secrets
 
 `.github/workflows/waka-readme-stats.yml` fills in everything between the
 `<!--START_SECTION:waka-->` / `<!--END_SECTION:waka-->` markers (commit-hour
-breakdown, day-of-week breakdown, language-per-repo, lines-of-code chart).
+breakdown, day-of-week breakdown, language-per-repo, lines-of-code chart, and
+WakaTime coding time).
 
-1. Create a classic PAT with `repo` and `read:user` scopes.
-2. Add it as repo secret **`GH_TOKEN`**.
+1. **`GH_TOKEN`** — a classic PAT with `repo` and `read:user` scopes.
+2. **`WAKATIME_API_KEY`** — from https://wakatime.com/settings/api-key
 3. Run the workflow manually once.
 
-### Optional: WakaTime blocks
+Both secrets are **mandatory**. `WAKATIME_API_KEY` is declared `required: true`
+in the action's `action.yml`, and `sources/manager_environment.py` raises
+`KeyError: 'Missing required secret: INPUT_WAKATIME_API_KEY'` at import time —
+so the run fails even if every `SHOW_*` WakaTime block is set to `"False"`.
 
-For the "This Week I Spent My Time On" section (editors, OS, per-project time),
-sign up at [wakatime.com](https://wakatime.com), install the editor plugin, add
-your API key as secret **`WAKATIME_API_KEY`**, and flip the `SHOW_TOTAL_CODE_TIME`,
-`SHOW_TIMEZONE`, `SHOW_LANGUAGE`, `SHOW_EDITORS`, `SHOW_PROJECTS`, and `SHOW_OS`
-inputs to `"True"`.
+The WakaTime blocks render as "No Activity Tracked This Week" until the editor
+plugin is installed and has reported time. The GitHub-derived blocks work
+immediately.
+
+> There is an undocumented escape hatch: setting the `MOCK_WAKATIME=True`
+> environment variable skips the key check and loads fixture data instead. It's
+> intended for the action's own tests, so don't rely on it in production.
 
 ## Notes
 
