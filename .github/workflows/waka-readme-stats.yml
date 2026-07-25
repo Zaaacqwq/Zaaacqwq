@@ -16,29 +16,28 @@ jobs:
           # A classic PAT with `repo` + `read:user` scope. GITHUB_TOKEN is not
           # sufficient: the action reads data across all of your repositories.
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Required — the action hard-fails at startup without it, even when
-          # every WakaTime block below is disabled. Get it from
-          # https://wakatime.com/settings/api-key
+          # Still required even though every WakaTime block is off below: the
+          # action hard-fails at startup without it. Keep the secret in place.
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # --- GitHub-derived blocks ---
+          # --- Enabled: "My GitHub Data", commit-hour and day-of-week charts ---
           SHOW_SHORT_INFO: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_PROFILE_VIEWS: "False"
 
-          # --- WakaTime-derived blocks ---
-          # These stay empty ("No Activity Tracked This Week") until the editor
-          # plugin has been installed and has reported some time.
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_OS: "True"
+          # --- Disabled ---
+          SHOW_TOTAL_CODE_TIME: "False"  # "Code Time" badge
+          SHOW_LANGUAGE_PER_REPO: "False"  # "I Mostly Code in ..."
+          SHOW_LOC_CHART: "False"  # "Timeline" bar graph
+          SHOW_PROFILE_VIEWS: "False"  # counter already in the header
+
+          # "This Week I Spent My Time On" — all five sub-blocks off
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
 
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "chore: update coding habits"
