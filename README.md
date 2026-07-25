@@ -29,10 +29,8 @@
 I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, currently on co-op as a
 **Software Developer in Test at Sony PlayStation**.
 
-- 💡 I care about **full-stack development**, **AI systems**, **developer tools**, and **automation**
+- 💡 Exploring **full-stack development**, **AI systems**, **developer tools**, and **automation**
 - 🛠️ I build practical software that improves **workflows, testing, and knowledge access**
-- 🧪 Day job: test infrastructure and quality engineering — automation, backend integration, test management
-- 📖 Off hours: shipping small tools that remove friction from my own workflow
 
 ---
 
@@ -41,7 +39,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
 | 🏝️ **Vibe Island** | A macOS Dynamic Island-inspired notch utility for agent workflows, live activities, and productivity | `SwiftUI` |
-| 🃏 **Slay the Spire 2 MCP** | An MCP server integration for Slay the Spire 2 | `TypeScript` `MCP` |
+| 🃏 **[SlayTheSpireRL](https://github.com/Zaaacqwq/SlayTheSpireRL)** | An agent stack for Slay the Spire 2 — a game mod exposing live state and actions, an MCP server that lets an LLM play, and an RL training environment | `Python` `C#` `MCP` |
 
 ---
 
