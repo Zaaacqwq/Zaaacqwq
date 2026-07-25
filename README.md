@@ -139,15 +139,13 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 290.4 kB Used in GitHub's Storage 
  > 
-> 🏆 935 Contributions in the Year 2026
+> 🏆 937 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -158,60 +156,26 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                283 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-🌃 Evening                241 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-🌙 Night                  493 commits         ███████████░░░░░░░░░░░░░░   44.78 % 
+🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌆 Daytime                283 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌃 Evening                243 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+🌙 Night                  493 commits         ███████████░░░░░░░░░░░░░░   44.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Tuesday                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Wednesday                424 commits         ██████████░░░░░░░░░░░░░░░   38.51 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Friday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Saturday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Monday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Tuesday                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Wednesday                424 commits         ██████████░░░░░░░░░░░░░░░   38.44 % 
+Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Zaaacqwq/Zaaacqwq/main/assets/bar_graph.png)
-
-
- Last Updated on 25/07/2026 03:41:29 UTC
+ Last Updated on 25/07/2026 03:46:58 UTC
 <!--END_SECTION:waka-->
 
 ---
