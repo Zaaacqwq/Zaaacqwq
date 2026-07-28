@@ -137,13 +137,13 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.32%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 290.5 kB Used in GitHub's Storage 
+> 📦 290.8 kB Used in GitHub's Storage 
  > 
-> 🏆 943 Contributions in the Year 2026
+> 🏆 1,212 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,29 +151,8 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 Daytime                283 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-🌃 Evening                245 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-🌙 Night                  497 commits         ███████████░░░░░░░░░░░░░░   44.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Tuesday                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Wednesday                424 commits         ██████████░░░░░░░░░░░░░░░   38.23 % 
-Thursday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Friday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-```
-
-
-
- Last Updated on 27/07/2026 07:30:21 UTC
+ Last Updated on 28/07/2026 06:26:44 UTC
 <!--END_SECTION:waka-->
 
 ---
