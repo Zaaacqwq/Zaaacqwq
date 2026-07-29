@@ -137,8 +137,6 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.32%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -171,30 +169,6 @@ Thursday                 179 commits         ███░░░░░░░░�
 Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 Saturday                 134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 Sunday                   206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 mins (100.0%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 885,764 Input Tokens, 7,786 Output Tokens
-
-💵 $4.11 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Opus                     3 lines             █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 92 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 

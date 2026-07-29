@@ -11,7 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update the "Coding Habits" section
-        uses: anmol098/waka-readme-stats@v5
+        # This revision declares the AI display switches added after the v5 tag.
+        uses: anmol098/waka-readme-stats@18146e87e945092519c11353547bf066daa99e46
         with:
           # A classic PAT with `repo` + `read:user` scope. GITHUB_TOKEN is not
           # sufficient: the action reads data across all of your repositories.
@@ -28,6 +29,8 @@ jobs:
 
           # --- Disabled ---
           SHOW_TOTAL_CODE_TIME: "False"  # "Code Time" badge
+          SHOW_AI_CODE_TIME: "False"  # "AI Code Time" badge
+          SHOW_AI_CODING: "False"  # weekly AI coding breakdown
           SHOW_LANGUAGE_PER_REPO: "False"  # "I Mostly Code in ..."
           SHOW_LOC_CHART: "False"  # "Timeline" bar graph
           SHOW_PROFILE_VIEWS: "False"  # counter already in the header
