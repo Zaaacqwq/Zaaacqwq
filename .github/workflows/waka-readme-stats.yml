@@ -42,5 +42,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_OS: "False"
 
-          COMMIT_BY_ME: "True"
+          # Commit as readme-bot so the daily README refresh does not count
+          # toward the contribution graph.
+          COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "chore: update coding habits"
