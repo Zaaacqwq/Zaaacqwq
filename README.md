@@ -141,7 +141,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 
 **🐱 My GitHub Data** 
 
-> 📦 291.9 kB Used in GitHub's Storage 
+> 📦 292.0 kB Used in GitHub's Storage 
  > 
 > 🏆 1,355 Contributions in the Year 2026
  > 
@@ -173,7 +173,7 @@ Sunday                   271 commits         ████░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 10:34:39 UTC
+ Last Updated on 01/09/2026 09:12:07 UTC
 <!--END_SECTION:waka-->
 
 ---
