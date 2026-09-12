@@ -38,6 +38,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| 🎯 **[DoFocus](https://github.com/Zaaacqwq/DoFocus)** | An AI-powered focus planner — turn text or voice input into editable schedules and linked tasks, organize habits and goals, and stay on track with customizable Pomodoro timers | `SwiftUI` `SwiftData` |
 | 🏝️ **[VibeIsland](https://github.com/Zaaacqwq/vibeIsland)** | A command center for the MacBook notch — track AI coding agent sessions, answer their questions and approve permission requests inline, and keep media, usage, and system HUDs one glance away | `SwiftUI` `macOS` |
 | 🃏 **[SlayTheSpireRL](https://github.com/Zaaacqwq/SlayTheSpireRL)** | An agent stack for Slay the Spire 2 — a game mod exposing live state and actions, an MCP server that lets an LLM play, and an RL training environment | `Python` `C#` `MCP` |
 
