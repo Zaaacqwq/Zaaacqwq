@@ -38,6 +38,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| 🎯 **[DoFocus](https://github.com/Zaaacqwq/DoFocus)** | An AI-powered focus planner — turn text or voice input into editable schedules and linked tasks, organize habits and goals, and stay on track with customizable Pomodoro timers | `SwiftUI` `SwiftData` |
 | 🏝️ **[VibeIsland](https://github.com/Zaaacqwq/vibeIsland)** | A command center for the MacBook notch — track AI coding agent sessions, answer their questions and approve permission requests inline, and keep media, usage, and system HUDs one glance away | `SwiftUI` `macOS` |
 | 🃏 **[SlayTheSpireRL](https://github.com/Zaaacqwq/SlayTheSpireRL)** | An agent stack for Slay the Spire 2 — a game mod exposing live state and actions, an MCP server that lets an LLM play, and an RL training environment | `Python` `C#` `MCP` |
 
@@ -137,13 +138,13 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.9 kB Used in GitHub's Storage 
+> 📦 292.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,342 Contributions in the Year 2026
+> 🏆 1,379 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -154,26 +155,26 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-🌆 Daytime                508 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌃 Evening                474 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌙 Night                  695 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌞 Morning                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌆 Daytime                508 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌙 Night                  674 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Tuesday                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Wednesday                530 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-Thursday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Friday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Saturday                 165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Sunday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Monday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Tuesday                  249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Wednesday                526 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Thursday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Friday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Sunday                   274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
 
 
- Last Updated on 30/08/2026 09:45:46 UTC
+ Last Updated on 11/09/2026 08:36:10 UTC
 <!--END_SECTION:waka-->
 
 ---
