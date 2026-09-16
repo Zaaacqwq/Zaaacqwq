@@ -6,12 +6,6 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
-# The action pushes the regenerated README itself, so GITHUB_TOKEN needs write
-# access. Declaring it here rather than relying on the repository-level default
-# keeps the workflow working if the repository is ever recreated.
-permissions:
-  contents: write
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
