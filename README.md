@@ -49,7 +49,7 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 
 ### **Sony PlayStation** · _Software Developer in Test Co-op_
 
-📍 Waterloo, ON &nbsp;|&nbsp; 🗓️ Jan 2026 – Present
+📍 Waterloo, ON &nbsp;|&nbsp; 🗓️ Jan 2026 – April 2026
 
 - Contribute to test infrastructure and quality engineering workflows for internal software systems.
 - Work with tools and services across automation, backend integration, and test management.
