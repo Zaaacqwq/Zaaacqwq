@@ -109,26 +109,26 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
     <img src="https://streak-stats.demolab.com/?user=Zaaacqwq&theme=transparent&hide_border=true&ring=00B3B3&fire=f0883e" alt="GitHub Streak" width="48%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3&icon_color=00B3B3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F" alt="GitHub Stats" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://zaaac-readme-stats.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3&icon_color=00B3B3">
+    <source media="(prefers-color-scheme: light)" srcset="https://zaaac-readme-stats.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F">
+    <img src="https://zaaac-readme-stats.vercel.app/api?username=Zaaacqwq&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f&icon_color=00838F" alt="GitHub Stats" width="48%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=0d1117&color=e6edf3&line=00B3B3&point=f78166&area=true&area_color=00B3B333&title_color=e6edf3&hide_border=true&custom_title=Contribution%20Graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="97%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://zaaac-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=0d1117&color=e6edf3&line=00B3B3&point=f78166&area=true&area_color=00B3B333&title_color=e6edf3&hide_border=true&custom_title=Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://zaaac-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph">
+    <img src="https://zaaac-activity-graph.vercel.app/graph?username=Zaaacqwq&bg_color=ffffff&color=24292f&line=00B3B3&point=f78166&area=true&area_color=00B3B322&title_color=24292f&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="97%" />
   </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zaaacqwq?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f" alt="Top Languages" width="45%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://zaaac-readme-stats.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00B3B3&text_color=e6edf3">
+      <source media="(prefers-color-scheme: light)" srcset="https://zaaac-readme-stats.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f">
+      <img src="https://zaaac-readme-stats.vercel.app/api/top-langs/?username=Zaaacqwq&layout=compact&hide=shell,powershell,racket,mdx,tex&theme=transparent&hide_border=true&bg_color=00000000&title_color=00838F&text_color=24292f" alt="Top Languages" width="45%" />
     </picture>
   </a>
 </p>
@@ -138,13 +138,13 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 292.2 kB Used in GitHub's Storage 
+> 📦 295.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,379 Contributions in the Year 2026
+> 🏆 1,440 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -155,26 +155,26 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-🌆 Daytime                508 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                489 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌙 Night                  674 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌞 Morning                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+🌆 Daytime                573 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                533 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+🌙 Night                  699 commits         █████████░░░░░░░░░░░░░░░░   35.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Tuesday                  249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Wednesday                526 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Thursday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Sunday                   274 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Monday                   195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                558 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Friday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Saturday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Sunday                   276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
 
- Last Updated on 11/09/2026 08:36:10 UTC
+ Last Updated on 15/09/2026 09:13:38 UTC
 <!--END_SECTION:waka-->
 
 ---
