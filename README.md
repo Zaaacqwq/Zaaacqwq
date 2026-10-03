@@ -139,13 +139,13 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 ## ⏰ Coding Habits
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 296.3 kB Used in GitHub's Storage 
+> 📦 325.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,460 Contributions in the Year 2026
+> 🏆 1,551 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,26 +156,26 @@ I'm a Computer Engineering student at **University of Waterloo (2023–2028)**, 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-🌆 Daytime                705 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌃 Evening                630 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌙 Night                  590 commits         ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+🌞 Morning                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+🌆 Daytime                729 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
+🌃 Evening                661 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌙 Night                  623 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Wednesday                374 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Thursday                 327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Friday                   371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Sunday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Monday                   303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  353 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                393 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Thursday                 330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Friday                   385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
 
 
 
- Last Updated on 02/10/2026 10:25:16 UTC
+ Last Updated on 03/10/2026 09:46:48 UTC
 <!--END_SECTION:waka-->
 
 ---
